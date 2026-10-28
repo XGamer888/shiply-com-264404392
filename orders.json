@@ -1,0 +1,47 @@
+{
+  "RL481528024449": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Pflegler 4, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Ing. Serezlija Emin, Richard-Wagner-Gasse 33, 8010 Graz, Österreich",
+    "price": "10.000,00 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Heritage Softail FXST<br>Fahrgestelnummer: 1HD1BJL43MY029193<br>Erstzulassung: 06/1991<br>KM laut Vorbesitzer: 41.187 km<br>Leistung: 35 kW (48 PS)<br>Hubraum: 1.337 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Ing. Serezlija Emin<br>Richard-Wagner-Gasse 33<br>8010 Graz<br>Österreich<br>Telefon: +43 664 4538891",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "28.10.2026",
+    "deliveryDate": "02.11.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
