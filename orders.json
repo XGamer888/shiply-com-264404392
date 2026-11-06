@@ -1,6 +1,6 @@
 {
   "RL481528024449": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Pflegler 4, 79576 Weil am Rhein, Deutschland",
     "receiver": "Ing. Serezlija Emin, Richard-Wagner-Gasse 33, 8010 Graz, Österreich",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "28.10.2026",
-    "deliveryDate": "06.11.2026 🕒 15:00 Uhr",
+    "deliveryDate": "06-08.11.2026 🕒 13:00 -15:00 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Radingerstraße 1, 5020 Salzburg",
+      "postal_code": "5020",
+      "city": "Salzburg",
+      "country": "Österreich",
       "lat": "",
       "lng": ""
     },
